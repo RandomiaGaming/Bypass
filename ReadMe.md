@@ -1,0 +1,2 @@
+# Bypass
+Scripts for bypassing account passwords and getting root/admin on both windows and linux. WARNING: Use of these scripts on systems you do not legally own is a crime. I am not liable for what you do with the contents of this repo.
